@@ -34,6 +34,9 @@ This project relies on a Conda environment for managing dependencies. Follow the
    ```matplotlib
    numpy
    pandas
+   seaborn
+   requests
+   scipy
    ```
 
 
