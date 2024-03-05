@@ -58,7 +58,3 @@ For any inquiries or contributions to the project, please contact:
 ## Acknowledgments
 
 We would like to thank the authors of the original BMI dataset study for making their data available for academic research, as well as the instructors and TA's of CSE 284 at UCSD for their guidance and support throughout this project.
-
-## License
-
-This project is licensed under the Creative Commons Attribution 4.0 International License - see the LICENSE file for details.
