@@ -1,4 +1,10 @@
-# UCSD CSE284 Group 23 Final Project: Polygenic Risk Score Analysis on Rat Models
+# CSE284 Final Project: Polygenic Risk Score Analysis on Rat Models
+
+Group 23
+
+- Vince Rothenberg 
+- Aditya Mandke 
+- Tiffany Chu 
 
 ## Overview
 
