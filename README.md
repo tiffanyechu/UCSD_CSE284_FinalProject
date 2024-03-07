@@ -1,9 +1,11 @@
 # CSE284 Final Project: Polygenic Risk Score Analysis on Rat Models
 
-Group 23
+**Group 23**
 
 - Vince Rothenberg 
+
 - Aditya Mandke 
+
 - Tiffany Chu 
 
 ## Overview
@@ -67,4 +69,4 @@ We would like to thank the authors of the original BMI dataset study for making 
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 license
