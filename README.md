@@ -1,4 +1,4 @@
-# UCSD CSE284 Final Project: Polygenic Risk Score Analysis on Rat Models
+# UCSD CSE284 Group 23 Final Project: Polygenic Risk Score Analysis on Rat Models
 
 ## Overview
 
