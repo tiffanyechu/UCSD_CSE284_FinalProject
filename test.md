@@ -10,6 +10,7 @@ Recent research in humans suggest that there may be an association between incre
 * The Impact of BMI on Mental Health: Further Evidence from Genetic Markers (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9062912/)
 * Psychiatric disorders and obesity: A review of association studies (2017) (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5525483/)
 * https://www.nature.com/articles/s44220-023-00158-1 (2024) (https://www.nature.com/articles/s44220-023-00158-1)
+* Shared genetics between classes of obesity and psychiatric disorders: A large-scale genome-wide cross-trait analysis (https://www.sciencedirect.com/science/article/abs/pii/S0022399922003178)
 
 ## Interpretation
 
